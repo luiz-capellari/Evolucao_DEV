@@ -92,7 +92,7 @@ html{
 }
 /* Estiliza apenas o primeiro container div (com o texto) dentro da seção .sobre */
 .sobre > div:first-child {
-  max-width: 50%;
+  max-width: 600px;
   padding-right: 40px;
 }
 
@@ -109,6 +109,7 @@ html{
 /* Estiliza o container do widget do Elfsight */
 .elfsight-app-e0079b9c-7f91-4a6b-9b7b-09eb0392f261 {
   width: 50%;
+  max-width: 400px;
 }
 /* inicio da sessão de fotos */
 
