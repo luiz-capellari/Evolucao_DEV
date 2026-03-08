@@ -17,5 +17,5 @@ font-family:sans-serif;
   background-image: url(images/calma\ calabreso.png);
   display: flex;
   align-items: center;
-  justify-content: center%; /* Ajusta a imagem para cobrir todo o espaço */
+  justify-content: center; /* Ajusta a imagem para cobrir todo o espaço */
 }
